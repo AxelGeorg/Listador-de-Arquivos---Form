@@ -1,0 +1,10 @@
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\bin\Debug\ListView_Files.exe.config
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\bin\Debug\ListView_Files.exe
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\bin\Debug\ListView_Files.pdb
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\obj\Debug\ListView_Files.csprojAssemblyReference.cache
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\obj\Debug\ListView_Files.MainScreen.resources
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\obj\Debug\ListView_Files.Properties.Resources.resources
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\obj\Debug\ListView_Files.csproj.GenerateResource.cache
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\obj\Debug\ListView_Files.csproj.CoreCompileInputs.cache
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\obj\Debug\ListView_Files.exe
+C:\Users\fe_ma\angular\atividades_c#\ListView_Files\ListView_Files\obj\Debug\ListView_Files.pdb
