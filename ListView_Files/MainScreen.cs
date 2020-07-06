@@ -39,8 +39,9 @@ namespace ListView_Files
 
         private void btn_remove_Click(object sender, EventArgs e)
         {
-            if ((listView_files.Items.Count > 0) && (listView_files.SelectedIndices[0] != 0))
+            if (listView_files.Items.Count > 0)
             {
+                //o item selecionado é excluido
                 listView_files.Items.Remove(listView_files.SelectedItems[0]);
             }
             else
